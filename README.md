@@ -11,12 +11,13 @@ Features:
 	•	Waveform validation using VCD viewer
 
 Supported Operations:
-  •	Addition
+  	•	Addition
 	•	Subtraction
 	•	AND
 	•	XOR
-	• NOT
-	•	Shift Left
+	•   NOT
+	•	OR
+	•	Shift Right
 	•	Shift Right
 
 Verification:

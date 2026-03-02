@@ -18,7 +18,7 @@ Supported Operations:
 	•   NOT
 	•	OR
 	•	Shift Right
-	•	Shift Right
+	•	Shift Left
 
 Verification:
 	•	Testbench applies multiple input combinations
